@@ -1,1 +1,1 @@
-print("Version de rama main")
+print("Versión rama main")
