@@ -1,1 +1,1 @@
-print("Version de rama conflicto")
+print("Versión rama conflicto")
