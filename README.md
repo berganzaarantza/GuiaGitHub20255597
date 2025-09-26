@@ -1,3 +1,3 @@
-Nombre: [Camila Berganza]  
-Carnet: [20255597]  
-Sección: [S2]  
+Nombre: Camila Berganza
+Carnet: 20255597
+Sección: S2
